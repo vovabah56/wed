@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="zjvlz.css">
+</head>
+
+<body>
+    <div class="some">+</div>
+    
+    <div class="header"> Шапка</div>
+    <ul id="nav">
+        <li >вная</li>
+        <li>Каталог</li>
+        <li>Про нас</li>
+        <li>Контакты</li>
+    </ul>
+    <div class="main">Основная часть</div>
+    <div class="aside">Боковая часть</div>
+    <div class="footer">Футер</div>
+    
+    <div></div>
+</body>
+</html>
